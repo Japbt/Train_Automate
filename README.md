@@ -1,2 +1,2 @@
 # Train_Automate
-Training
+Training folder is in branch master.
